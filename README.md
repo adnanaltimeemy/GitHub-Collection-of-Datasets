@@ -1,2 +1,2 @@
 # GitHub-Collection-of-Datasets
-Collection of datasets from different parts of industry.
+A curated collection of datasets sourced from various sectors across industry. This repository is designed to support data analysis, machine learning, research, and experimentation by providing diverse, real-world data.
